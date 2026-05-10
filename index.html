@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The OSS Index™ — Board-Level Structural Stability Metric</title>
+    <meta name="description" content="The OSS Index™ is the first board-level structural stability metric for the AI era. Permanently archived on Zenodo (CERN).">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Georgia', 'Times New Roman', serif; line-height: 1.7; color: #1a1a2e; background: #fafaf8; }
+        .container { max-width: 900px; margin: 0 auto; padding: 60px 24px; }
+        .section { margin: 100px 0; }
+        .section h2 { font-size: 1.6em; font-weight: 700; color: #0a0a1a; border-bottom: 2px solid #c9a227; padding-bottom: 10px; display: inline-block; margin-bottom: 24px; }
+        .btn { display: inline-block; background: #c9a227; color: #fff; padding: 16px 40px; border-radius: 6px; font-weight: 700; font-size: 1.05em; text-decoration: none; margin-top: 20px; }
+        .btn:hover { opacity: 0.85; }
+        .btn-small { display: inline-block; background: #c9a227; color: #fff; padding: 10px 24px; border-radius: 6px; font-weight: 700; font-size: 0.9em; text-decoration: none; margin-top: 10px; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 0.9em; }
+        th, td { border: 1px solid #ddd; padding: 12px 16px; text-align: left; }
+        th { background: #0a0a1a; color: #fff; }
+        .formula-hero { background: linear-gradient(135deg, #0a0a2e, #1a1a4e); color: #fff; padding: 60px 40px; border-radius: 12px; text-align: center; margin-bottom: 20px; }
+        .formula-hero .formula { font-size: 2.2em; font-weight: 800; margin: 20px 0; }
+        .formula-hero .formula-line { display: block; }
+        .formula-hero .formula-line.divider { border-top: 2px solid #c9a227; width: 60%; margin: 8px auto; }
+        .evolution { text-align: center; font-size: 0.95em; line-height: 2.4; }
+        .evolution .arrow { color: #c9a227; font-weight: 700; }
+        .five-layer { max-width: 660px; margin: 0 auto; }
+        .layer-card { border-radius: 10px; padding: 18px 24px; margin-bottom: 0; }
+        .layer-card .num { display: inline-block; width: 30px; height: 30px; border-radius: 50%; text-align: center; line-height: 30px; font-weight: 800; font-size: 0.9em; margin-right: 10px; background: rgba(255,255,255,0.3); }
+        .layer-card .title { font-size: 1.05em; font-weight: 800; }
+        .layer-card .role { font-size: 0.85em; opacity: 0.8; margin: 4px 0; }
+        .arrow-down { text-align: center; font-size: 1.4em; font-weight: 800; margin: 2px 0; }
+        .loop-back { text-align: center; margin-top: 20px; padding: 16px; background: #fafaf8; border: 2px dashed #c9a227; border-radius: 8px; }
+        .layer-orange { background: linear-gradient(135deg, #fff8f0, #ffe8cc); border: 2px solid #f08c2e; }
+        .layer-orange .num, .layer-orange .title { color: #c9741e; } .arrow-orange { color: #f08c2e; }
+        .layer-blue { background: linear-gradient(135deg, #f5f8ff, #dce8fc); border: 2px solid #1a56db; }
+        .layer-blue .num, .layer-blue .title { color: #1a56db; } .arrow-blue { color: #1a56db; }
+        .layer-green { background: linear-gradient(135deg, #f5faf8, #d4ede2); border: 2px solid #2e8b57; }
+        .layer-green .num, .layer-green .title { color: #2e8b57; } .arrow-green { color: #2e8b57; }
+        .layer-red { background: linear-gradient(135deg, #fff5f5, #fdd8d8); border: 2px solid #c92a2a; }
+        .layer-red .num, .layer-red .title { color: #c92a2a; } .arrow-red { color: #c92a2a; }
+        .layer-grey { background: linear-gradient(135deg, #f8f8fa, #e8e8ec); border: 2px solid #6c757d; }
+        .layer-grey .num, .layer-grey .title { color: #6c757d; } .arrow-grey { color: #6c757d; }
+        .footer { text-align: center; padding: 40px 0; color: #888; font-size: 0.85em; border-top: 1px solid #ddd; margin-top: 60px; }
+        a { color: #c9a227; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+<!-- ===== 第1屏：物理第一原理 ===== -->
+<div class="formula-hero">
+    <p style="font-size:0.9em; text-transform:uppercase; letter-spacing:2px; color:#c9a227; margin-bottom:10px;">Organizational Sync‑Stability Index™ (The OSS Index™)</p>
+    <h1 style="font-size:2.4em; font-weight:800; margin-bottom:10px; color:#fff;">The First Principle</h1>
+    <div class="formula">
+        <span class="formula-line">Instability Risk ∝ Acceleration</span>
+        <span class="formula-line divider"></span>
+        <span class="formula-line">Recovery Integrity</span>
+    </div>
+    <p style="font-size:1.1em; color:#ddd; margin-top:16px;">When acceleration explodes and recovery collapses, collapse is structural — not managerial.</p>
+    <p style="font-size:0.9em; color:#888; margin-top:12px;">Permanently archived on Zenodo, operated by CERN. DOIs are immutable.</p>
+    <a href="#formula" class="btn">Explore the System ↓</a>
+</div>
+
+<!-- ===== 第2屏：演化路径 ===== -->
+<div class="section">
+    <h2>From Self-Nature to Engineering</h2>
+    <div class="evolution">
+        <p>人类自性智慧（禅宗）</p>
+        <p class="arrow">↓</p>
+        <p>哲学（戒定慧）</p>
+        <p class="arrow">↓</p>
+        <p>物理学 — Instability Risk ∝ Acceleration / Recovery Integrity</p>
+        <p class="arrow">↓</p>
+        <p>数学 — 几何平均 + 加速调节</p>
+        <p class="arrow">↓</p>
+        <p>工程学 — The OSS Index™ 标准化 0–100</p>
+        <p class="arrow">↓</p>
+        <p>人类自性智慧文明层 — Self-Nature Wisdom™</p>
+    </div>
+</div>
+
+<!-- ===== 第3屏：完整计算公式 + 验证 ===== -->
+<div class="section" id="formula">
+    <h2>The Measurement Standard</h2>
+    <div style="background:#fff; border-left:4px solid #c9a227; padding:32px 36px; margin:24px 0; box-shadow:0 2px 8px rgba(0,0,0,0.04);">
+        <p style="font-size:0.85em; text-transform:uppercase; letter-spacing:2px; color:#888; margin-bottom:8px;">Organizational Sync‑Stability Index™ (The OSS Index™)</p>
+        <p style="font-size:2em; font-weight:800; color:#0a0a1a; margin:12px 0;">The OSS Index™ = (ER × PR × RI)<sup>(1/3)</sup> / (1 + A/100)</p>
+        <p style="font-size:0.9em; color:#555; margin:8px 0;">Standardized range: 0–100</p>
+        <p style="font-size:0.85em; color:#888;">ER = Execution Rhythm · PR = Pressure Regulation · RI = Recovery Integrity · A = Acceleration Intensity</p>
+    </div>
+
+    <h3 style="color:#c9a227; margin-top:30px;">Calculation Verification</h3>
+    <table>
+        <tr><th>ER</th><th>PR</th><th>RI</th><th>A</th><th>OSS Score</th><th>Risk Zone</th></tr>
+        <tr><td>80</td><td>80</td><td>80</td><td>20</td><td><strong>66.7</strong></td><td>Volatility Expansion</td></tr>
+        <tr><td>80</td><td>80</td><td>80</td><td>90</td><td><strong>42.1</strong></td><td>Destabilization Risk</td></tr>
+        <tr><td>50</td><td>50</td><td>50</td><td>90</td><td><strong>26.3</strong></td><td>Structural Instability</td></tr>
+        <tr><td>95</td><td>90</td><td>90</td><td>10</td><td><strong>83.3</strong></td><td>Structural Advantage</td></tr>
+    </table>
+</div>
+
+<!-- ===== 第4屏：五层闭环 → 商业产品 ===== -->
+<div class="section">
+    <h2>Five-Layer Closed System</h2>
+    <p style="color:#555; margin-bottom:20px;">An indivisible whole. Extracting any single layer destroys the integrity of the entire system.</p>
+    <div class="five-layer">
+        <div class="layer-card layer-orange"><span class="num">①</span><span class="title">Canvas™</span><div class="role">Operational Interface → Strategic Workshops · AI Rhythm Monitoring</div></div>
+        <div class="arrow-down arrow-orange">▼</div>
+        <div class="layer-card layer-blue"><span class="num">②</span><span class="title">Stability Triad Model™</span><div class="role">Definition Right → Executive Programs · Thought Leadership</div></div>
+        <div class="arrow-down arrow-blue">▼</div>
+        <div class="layer-card layer-green"><span class="num">③</span><span class="title">The OSS Index™</span><div class="role">Measurement Right → Certification · Consulting · Enterprise Diagnostic</div></div>
+        <div class="arrow-down arrow-green">▼</div>
+        <div class="layer-card layer-red"><span class="num">④</span><span class="title">Rhythm Strategy Curve™</span><div class="role">Strategic Differentiation → Boardroom Advisory · Investment Evaluation</div></div>
+        <div class="arrow-down arrow-red">▼</div>
+        <div class="layer-card layer-grey"><span class="num">⑤</span><span class="title">Narrative Thread</span><div class="role">Narrative Validation → Business School Cases · Cross-Media Adaptations</div></div>
+        <div class="loop-back"><p style="color:#c9a227; font-weight:700;">🔒 Indivisible Closed Loop — Back to Canvas or Triad</p></div>
+    </div>
+</div>
+
+<!-- ===== 第5屏：对标国际标准 ===== -->
+<div class="section">
+    <h2>Global Benchmark</h2>
+    <p style="color:#555; margin-bottom:20px;">No existing framework measures structural stability under acceleration.</p>
+    <table>
+        <tr><th>Dimension</th><th>ISO 31000</th><th>S&P 500</th><th>MSCI ESG</th><th style="background:#c9a227; color:#fff;">The OSS Index™</th></tr>
+        <tr><td>Quantifies Structural Stability</td><td>❌</td><td>❌</td><td>❌</td><td style="background:#fffbf0;">✅</td></tr>
+        <tr><td>Built for Acceleration Era</td><td>❌</td><td>❌</td><td>❌</td><td style="background:#fffbf0;">✅</td></tr>
+        <tr><td>Physics First Principle</td><td>❌</td><td>❌</td><td>❌</td><td style="background:#fffbf0;">✅</td></tr>
+        <tr><td>Computable Formula</td><td>Partially</td><td>✅</td><td>✅</td><td style="background:#fffbf0;">✅</td></tr>
+        <tr><td>Certification System</td><td>✅</td><td>❌</td><td>✅</td><td style="background:#fffbf0;">✅</td></tr>
+    </table>
+</div>
+
+<!-- ===== 第6屏：全球学术档案 + 授权入口 ===== -->
+<div class="section">
+    <h2>Global Academic Archive</h2>
+    <p style="color:#555; margin-bottom:16px;">Permanently archived on Zenodo, operated by CERN — the birthplace of the World Wide Web. DOIs are immutable. Timestamps are independently verifiable.</p>
+    <table>
+        <tr><th>Archive</th><th>DOI</th><th>Date</th></tr>
+        <tr><td>Paradigm Edition</td><td><a href="https://doi.org/10.5281/zenodo.19941449"><code>10.5281/zenodo.19941449</code></a></td><td>2026-03-02</td></tr>
+        <tr><td>Theoretical Architecture Spine</td><td><a href="https://doi.org/10.5281/zenodo.19994305"><code>10.5281/zenodo.19994305</code></a></td><td>2026-03-02</td></tr>
+        <tr><td>Organizational Sync‑Stability Index™ — The Standardized Logical Model</td><td><a href="https://doi.org/10.5281/zenodo.20025692"><code>10.5281/zenodo.20025692</code></a></td><td>2026-03-02</td></tr>
+        <tr><td>Self-Nature Wisdom™ — System Genesis</td><td><a href="https://doi.org/10.5281/zenodo.20078153"><code>10.5281/zenodo.20078153</code></a></td><td>2026-03-17</td></tr>
+    </table>
+</div>
+
+<div class="section">
+    <h2>Licensing</h2>
+    <p style="color:#555; margin-bottom:16px;">Commercial use of The OSS Index™ requires a separate paid license agreement. The complete five-layer closed system is licensed — single-layer extraction is not permitted, as it destroys system integrity.</p>
+    <table>
+        <tr><th>Scenario</th><th>Applies To</th><th>Fee Structure</th></tr>
+        <tr><td>Academic Attribution</td><td>Scholars, business schools</td><td>Free — citation required</td></tr>
+        <tr><td>Enterprise Internal Use</td><td>Corporations, consulting firms</td><td>$50,000 – $500,000 / year</td></tr>
+        <tr><td>AI System Integration</td><td>AI companies, SaaS platforms</td><td>$1,000,000 – $10,000,000+ / year</td></tr>
+    </table>
+    <p style="margin-top:20px;"><strong>Contact:</strong> <a href="mailto:kuanxuhome@gmail.com">kuanxuhome@gmail.com</a></p>
+    <p style="margin-top:8px;"><strong>Main Site:</strong> <a href="https://dualrhythmsystems.com">dualrhythmsystems.com</a></p>
+    <a href="mailto:kuanxuhome@gmail.com" class="btn">Inquire About Licensing →</a>
+</div>
+
+<div class="footer">
+    <p>© 2026 李宽续 Li Kuanxu | Kuanxuhome™ | OFFICIAL SOVEREIGNTY LOCK-IN</p>
+    <p style="margin-top:8px;"><strong>® Brand Clarification:</strong> "The OSS Index™" is a proprietary governance metric. It is not affiliated with any open source software (OSS) initiative.</p>
+</div>
+
+</div>
+</body>
+</html>
