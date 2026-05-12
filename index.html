@@ -145,29 +145,76 @@
 
 </body>
 </html>
-<!-- ===== 第3屏：完整计算公式 + 验证 ===== -->
-<div class="section" id="formula">
-    <h2>The Measurement Standard</h2>
-    <div style="background:#fff; border-left:4px solid #c9a227; padding:32px 36px; margin:24px 0; box-shadow:0 2px 8px rgba(0,0,0,0.04);">
-        <p style="font-size:0.85em; text-transform:uppercase; letter-spacing:2px; color:#888; margin-bottom:8px;">Organizational Sync‑Stability Index™ (The OSS Index™)</p>
-        <p style="font-size:2em; font-weight:800; color:#0a0a1a; margin:12px 0;">The OSS Index™ = (ER × PR × RI)<sup>(1/3)</sup> / (1 + A/100)</p>
-        <p style="font-size:0.9em; color:#555; margin:8px 0;">Standardized range: 0–100</p>
-        <p style="font-size:0.85em; color:#888;">ER = Execution Rhythm · PR = Pressure Regulation · RI = Recovery Integrity · A = Acceleration Intensity</p>
+    <!-- ===== 第五层：INDEX CALCULATION LOGIC ===== -->
+    <div class="section">
+        <h2>INDEX CALCULATION LOGIC</h2>
+        <p style="text-align:center; font-size:0.9em; color:#888; margin-top:-10px; margin-bottom:30px;">Organizational Sync‑Stability Index™ (The OSS Index™) Core Equation</p>
+
+        <div style="max-width:700px; margin:0 auto; background:#fff; border:1px solid #e0e0e0; border-radius:8px; padding:36px 40px; text-align:center;">
+            <p style="font-size:1.3em; font-weight:800; color:#0a0a1a; margin:16px 0;">Organizational Sync‑Stability™ = f ( ER × PR × RI ) / A</p>
+            <p style="font-size:0.9em; color:#555; margin-top:12px;"><strong>Where:</strong></p>
+            <p style="font-size:0.9em; color:#555; margin-top:6px;">ER = Execution Rhythm Score<br>PR = Pressure Regulation Score<br>RI = Recovery Integrity Score<br>A = Acceleration Intensity</p>
+            <p style="font-size:0.85em; color:#888; margin-top:16px;">For standardization and board readability, a layered weighting structure is applied.</p>
+            <p style="width:40%; height:1px; background:#c9a227; margin:20px auto;"></p>
+            <p style="font-size:1.1em; font-weight:700; color:#0a0a1a;">Adjusted Stability = (ER × PR × RI)<sup>(1/3)</sup> / (1 + A/100)</p>
+            <p style="font-size:0.85em; color:#888; margin-top:8px;">Standardized range: 0–100</p>
+        </div>
+
+        <h3 style="color:#c9a227; margin-top:40px; text-align:center;">Calculation Verification</h3>
+        <table style="width:100%; border-collapse:collapse; margin:20px 0; font-size:0.9em;">
+            <thead>
+                <tr>
+                    <th style="background:#0a0a1a; color:#fff; padding:14px 18px; font-size:0.85em; letter-spacing:1px; text-align:left;">ER</th>
+                    <th style="background:#0a0a1a; color:#fff; padding:14px 18px; font-size:0.85em; letter-spacing:1px; text-align:left;">PR</th>
+                    <th style="background:#0a0a1a; color:#fff; padding:14px 18px; font-size:0.85em; letter-spacing:1px; text-align:left;">RI</th>
+                    <th style="background:#0a0a1a; color:#fff; padding:14px 18px; font-size:0.85em; letter-spacing:1px; text-align:left;">A</th>
+                    <th style="background:#0a0a1a; color:#fff; padding:14px 18px; font-size:0.85em; letter-spacing:1px; text-align:left;">OSS Score</th>
+                    <th style="background:#0a0a1a; color:#fff; padding:14px 18px; font-size:0.85em; letter-spacing:1px; text-align:left;">Risk Zone</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fafaf8;">80</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fafaf8;">80</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fafaf8;">80</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fafaf8;">20</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fafaf8; font-weight:700;">66.7</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fafaf8;">Volatility Expansion</td>
+                </tr>
+                <tr>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fff;">80</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fff;">80</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fff;">80</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fff;">90</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fff; font-weight:700;">42.1</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fff;">Destabilization Risk</td>
+                </tr>
+                <tr>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fafaf8;">50</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fafaf8;">50</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fafaf8;">50</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fafaf8;">90</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fafaf8; font-weight:700;">26.3</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fafaf8;">Structural Instability</td>
+                </tr>
+                <tr>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fff;">95</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fff;">90</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fff;">90</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fff;">10</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fff; font-weight:700;">83.3</td>
+                    <td style="padding:14px 18px; border-bottom:1px solid #e0e0e0; background:#fff;">Structural Advantage</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <p style="margin-top:16px; text-align:center;">
+            📄 <a href="https://zenodo.org/records/20025692">Download the Full White Paper (Zenodo, CERN) →</a>
+        </p>
     </div>
 
-    <h3 style="color:#c9a227; margin-top:30px;">Calculation Verification</h3>
-    <table>
-        <tr><th>ER</th><th>PR</th><th>RI</th><th>A</th><th>OSS Score</th><th>Risk Zone</th></tr>
-        <tr><td>80</td><td>80</td><td>80</td><td>20</td><td><strong>66.7</strong></td><td>Volatility Expansion</td></tr>
-        <tr><td>80</td><td>80</td><td>80</td><td>90</td><td><strong>42.1</strong></td><td>Destabilization Risk</td></tr>
-        <tr><td>50</td><td>50</td><td>50</td><td>90</td><td><strong>26.3</strong></td><td>Structural Instability</td></tr>
-        <tr><td>95</td><td>90</td><td>90</td><td>10</td><td><strong>83.3</strong></td><td>Structural Advantage</td></tr>
-    </table>
-    <p style="margin-top:16px; text-align:center;">
-    📄 <a href="https://doi.org/10.5281/zenodo.20025692">Download the Full White Paper (Zenodo, CERN) →</a>
-</p>
-</div>
-
+    <!-- 向下引导 -->
+    <div style="text-align:center; color:#c9a227; font-size:1.5em; margin-top:40px;">↓</div>
 <!-- ===== 第4屏：五层闭环 → 商业产品 ===== -->
 <div class="section">
     <h2>Five-Layer Closed System</h2>
