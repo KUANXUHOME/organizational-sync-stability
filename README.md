@@ -1,2 +1,2 @@
 # Organizational-Sync-Stability-Index
-Organizational Sync‑Stability Index™ (The OSS Index™) — The Board-Level Structural Stability Metric for the AI Era
+DUAL-RHYTHM ARCHITECTURE™ | Organizational Sync‑Stability Index™ (The OSS Index™) — A Governance Currency for the AI Era.
