@@ -2,7 +2,7 @@
 DUAL-RHYTHM ARCHITECTURE™ | Organizational Sync‑Stability Index™ (The OSS Index™) — A Governance Currency for the AI Era. 
 Sovereign IP by 李宽续 (Li Kuanxu)
 Founder & Author
-ORCID: 0009-0006-7346-3999
+ORCID: https://orcid.org/0009-0006-7346-3999
 
 About This Repository
 DUAL-RHYTHM ARCHITECTURE™ | Organizational Rhythm Governance™ (ORG™)
@@ -21,7 +21,7 @@ Commercial Licensing
 
 Any commercial use requires a separate paid license agreement with the author.
 Contact: kuanxuhome@gmail.com | dualrhythmsystems.com
-Inquire About Licensing →
+Inquire About Licensing → https://dualrhythmsystems.com/licensing
 
 Global Academic Archives
 
