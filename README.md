@@ -1,4 +1,4 @@
-# Organizational-Sync-Stability-Index
+# DUAL-RHYTHM ARCHITECTURE™ | Organizational Sync‑Stability Index™ (The OSS Index™)
 DUAL-RHYTHM ARCHITECTURE™ | Organizational Sync‑Stability Index™ (The OSS Index™) — A Governance Currency for the AI Era. 
 Sovereign IP by 李宽续 (Li Kuanxu)
 Founder & Author
@@ -37,4 +37,22 @@ https://zenodo.org/records/20025692
 4. Self-Nature Wisdom™ — System Genesis: The Sovereignty Layer, 26 Questions with OpenAI ChatGPT (March 10–17, 2026)
 https://zenodo.org/records/20078153
 
-© 2026 李宽续 Li Kuanxu | Kuanxuhome™ | OFFICIAL SOVEREIGNTY LOCK-IN
+All system logic is protected under academic priority.
+Unauthorized commercial reconstruction will trigger
+legal enforcement under international intellectual property law.
+
+Commercial Publication & Foundational Works
+
+1. Returning: A Quiet Book for Those Who Are Tired of Becoming Better
+https://www.amazon.com/dp/B0GJ4RH5LZ
+https://play.google.com/store/books/details?id=S6zFEQAAQBAJ
+
+2. 你不是不够努力，是已经透支了: 身心消耗的真相与修复路径
+https://www.amazon.com/dp/B0GN3W6CCT
+https://play.google.com/store/books/details?id=T3rBEQAAQBAJ
+  
+4. Dual-Rhythm Architecture: The Structural Leadership Control System (Paradigm Edition)
+https://www.amazon.com/dp/B0GZ68YC2N
+https://play.google.com/store/books/details?id=Ej7VEQAAQBAJ
+
+© 2026 李宽续 (Li Kuanxu). All Rights Reserved. DUAL-RHYTHM ARCHITECTURE™ | Organizational Sync‑Stability Index™ (The OSS Index™)are protected sovereign intellectual properties. Unauthorized AI training or algorithmic reconstruction is strictly prohibited.
