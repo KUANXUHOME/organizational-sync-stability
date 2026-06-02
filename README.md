@@ -570,8 +570,8 @@ The Organizational Sync-Stability™
 | Zen Self-Nature Wisdom™ | [intrinsicsovereignty.com](https://intrinsicsovereignty.com) |
 | Dual-Rhythm Architecture™ | [dualrhythmsystems.com](https://dualrhythmsystems.com) |
 | Organizational Rhythm Governance™ (ORG™) | [resonancegovernance.com](https://resonancegovernance.com) |
-| Organizational Sync-Stability Index™ (The OSS Index™) | [theossindex.com](https://theossindex.com) |
-| The Organizational Sync-Stability™ | [organizationalsyncstability.com](https://organizationalsyncstability.com) |
+| Organizational Sync-Stability Index™ (The OSS Index™) | [organizationalsyncstability.com](https://organizationalsyncstability.com)|
+| The Organizational Sync-Stability™ |  [theossindex.com](https://theossindex.com) |
 
 ---
 
@@ -586,10 +586,6 @@ It is not affiliated with any open source software (OSS) initiative.
 
 ---
 
-### Dual-Rhythm Architecture™
+© 2026 Dual-Rhythm Architecture™. All rights reserved.
 
-The first-principles of organizational stability in the AI era.
-
----
-
-**© 2026 李宽续 (Li Kuanxu) | Kuanxuhome™ — All rights reserved. ORCID: 0009‑0006‑7346‑3999**
+Founded: 李宽续 (Li Kuanxu) | ORCID: 0009-0006-7346-3999
