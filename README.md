@@ -40,16 +40,6 @@ Refer to:
 
 ---
 
-## github Canonical Specification
-
-[Dual-Rhythm Architecture™: The Structural Leadership Control System (Paradigm Edition)](https://github.com/KUANXUHOME/dual-rhythm-architecture/releases/tag/v1.0.0)
-
-[Theoretical Architecture Spine of Dual-Rhythm Architecture™ — Ten-Year Structural Integrity Framework](https://github.com/KUANXUHOME/dual-rhythm-architecture/blob/main/Theoretical_Architecture_Spine_Dual-Rhythm_Architecture_2026-03-02_Li_Kuanxu.pdf)
-
-**Release Date**: 2026-05-01
-
----
-
 ## Global Benchmark
 
 **No existing framework measures structural stability under acceleration.**
@@ -209,10 +199,11 @@ The narrative thread demonstrates real-world application throughout.
 
 The formal calculation formulas and definitions of this system were locked on March 1, 2026.
 
-DUAL‑RHYTHM ARCHITECTURE™ | Organizational Sync-Stability™ Ecosystem Canonical System Specification — The Zenodo archive is the exclusive legitimate version.
-  
-* [Dual-Rhythm Architecture™: The Structural Leadership Control System (Paradigm Edition)](https://github.com/KUANXUHOME/dual-rhythm-architecture/releases/tag/v1.0.0)
-* Organizational Sync‑Stability™ — The Standardized Logical Model (Board-Level Structural Stability Metric) | [10.5281/zenodo.20025692](https://zenodo.org/records/20025692) | 2026-03-02 
+## github Canonical Specification
+
+[Dual-Rhythm Architecture™: The Structural Leadership Control System (Paradigm Edition)](https://github.com/KUANXUHOME/dual-rhythm-architecture/releases/tag/v1.0.0)
+
+[Theoretical Architecture Spine of Dual-Rhythm Architecture™ — Ten-Year Structural Integrity Framework](https://github.com/KUANXUHOME/dual-rhythm-architecture/blob/main/Theoretical_Architecture_Spine_Dual-Rhythm_Architecture_2026-03-02_Li_Kuanxu.pdf)
 
 ---
 
@@ -554,7 +545,7 @@ Organizational Sync-Stability™
 | Zen Self‑Nature Wisdom™ | Civilizational and human stability archive | Civilizational Layer |
 | Dual‑Rhythm Architecture™ | The Structural Leadership Control System (Paradigm Edition) | The Structural Leadership Control (Paradigm Edition) |
 | Organizational Rhythm Governance™ | A New Management Category | Governance Layer |
-| Organizational Sync‑Stability™ | The World's Only Organizational Stability™ Index System |Enterprise Audit Reports and Global Research and Intelligence Archive System |
+| Organizational Sync‑Stability™ | The World's Only Organizational Sync‑Stability™ Governance System |Enterprise Audit Reports and Global Research and Intelligence Archive |
 
 ---
 
@@ -577,6 +568,6 @@ Unauthorized AI training or algorithmic reconstruction is strictly prohibited.
 
 ---
 
-© 2026 Dual-Rhythm Architecture™. All rights reserved.
+© 2026 Dual-Rhythm Architecture™ All rights reserved.
 
 Founded: 李宽续 (Li Kuanxu) | ORCID: 0009-0006-7346-3999
