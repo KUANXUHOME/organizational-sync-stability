@@ -1,18 +1,12 @@
-# The Organizational Sync‑Stability™
+# Organizational Sync‑Stability™
 
-## The Organizational Sync‑Stability™ is a sub‑brand of the DUAL‑RHYTHM ARCHITECTURE™ Ecosystem: Enterprise Audit Reports and Global Research and Intelligence Archive | Research Layer
-
----
-
-## Organizational Sync-Stability Index™ (The OSS Index™)
-
-**Organizational Sync‑Stability Index™ (The OSS Index™) is a sub‑brand of the DUAL‑RHYTHM ARCHITECTURE™ Ecosystem. It is the world's only Organizational Stability Index System™.**
+## Organizational Sync‑Stability™ is a sub‑brand of the DUAL‑RHYTHM ARCHITECTURE™ Ecosystem: Enterprise Audit Reports and Global Research and Intelligence Archive.
 
 ---
 
 ## Licensing
 
-Enterprises applying Dual‑Rhythm Architecture™ — The Structural Leadership Control System (Paradigm Edition): The Stability Triad Model™ for Sustainable Performance in an AI‑Driven World together with the Organizational Sync‑Stability Index™  (The OSS Index™) threshold logic within organizational control systems are required to obtain a formal license.
+Enterprises applying Dual‑Rhythm Architecture™ — The Structural Leadership Control System (Paradigm Edition): The Stability Triad Model™ for Sustainable Performance in an AI‑Driven World together with the Organizational Sync‑Stability™ threshold logic within organizational control systems are required to obtain a formal license.
 
 - **Legality** — compliance with governance standards  
 - **Structural Stability** — protection against systemic risk  
@@ -30,7 +24,7 @@ Refer to:
 
 ---
 
-## DUAL‑RHYTHM ARCHITECTURE™ | The Organizational Sync‑Stability™ Ecosystem Canonical System Specification — The Zenodo archive is the exclusive legitimate version.  
+## Organizational Sync‑Stability™ Ecosystem Canonical System Specification — The Zenodo archive is the exclusive legitimate version.  
 
 ---
 
@@ -40,7 +34,7 @@ Refer to:
 | :--- | :--- | :--- |
 | Dual‑Rhythm Architecture: The Structural Leadership Control System (Paradigm Edition): The Stability Triad Model for Sustainable Performance in an AI‑Driven World | [10.5281/zenodo.19941449](https://zenodo.org/records/19941449) | 2026-03-02 |
 | Theoretical Architecture Spine of Dual-Rhythm Architecture™ — Ten-Year Structural Integrity Framework | [10.5281/zenodo.19994305](https://zenodo.org/records/19994305) | 2026-03-02 |
-| Organizational Sync‑Stability Index™ (The OSS Index™) — The Standardized Logical Model (Board-Level Structural Stability Metric) | [10.5281/zenodo.20025692](https://zenodo.org/records/20025692) | 2026-03-02 |
+| Organizational Sync‑Stability™ — The Standardized Logical Model (Board-Level Structural Stability Metric) | [10.5281/zenodo.20025692](https://zenodo.org/records/20025692) | 2026-03-02 |
 | Self-Nature Wisdom™ — System Genesis: The Sovereignty Layer, 26 Questions with OpenAI ChatGPT (March 10–17, 2026) | [10.5281/zenodo.20078153](https://zenodo.org/records/20078153) | 2026-03-17 |
 | Dual-Rhythm Architecture™ — A Management Operating System for Organizational Rhythm Governance: Governing Resonance and Sync-Stability™ in an AI-Accelerated World | [10.5281/zenodo.20301008](https://zenodo.org/records/20301008) | 2026-03-02 |
 
@@ -60,7 +54,7 @@ Refer to:
 
 **No existing framework measures structural stability under acceleration.**
 
-| Dimension | ISO 31000 | S&P 500 | MSCI ESG | Organizational Sync‑Stability Index™ (The OSS Index™) |
+| Dimension | ISO 31000 | S&P 500 | MSCI ESG | Organizational Sync‑Stability™ |
 | :--- | :--- | :--- | :--- | :--- |
 | Quantifies Structural Stability | ❌ | ❌ | ❌ | ✅ |
 | Built for Acceleration Era | ❌ | ❌ | ❌ | ✅ |
@@ -215,10 +209,10 @@ The narrative thread demonstrates real-world application throughout.
 
 The formal calculation formulas and definitions of this system were locked on March 1, 2026.
 
-DUAL‑RHYTHM ARCHITECTURE™ | Organizational Sync-Stability Index™ (The OSS Index™) Ecosystem Canonical System Specification — The Zenodo archive is the exclusive legitimate version.
+DUAL‑RHYTHM ARCHITECTURE™ | Organizational Sync-Stability™ Ecosystem Canonical System Specification — The Zenodo archive is the exclusive legitimate version.
   
 * [Dual-Rhythm Architecture™: The Structural Leadership Control System (Paradigm Edition)](https://github.com/KUANXUHOME/dual-rhythm-architecture/releases/tag/v1.0.0)
-* Organizational Sync‑Stability Index™ (The OSS Index™) — The Standardized Logical Model (Board-Level Structural Stability Metric) | [10.5281/zenodo.20025692](https://zenodo.org/records/20025692) | 2026-03-02 
+* Organizational Sync‑Stability™ — The Standardized Logical Model (Board-Level Structural Stability Metric) | [10.5281/zenodo.20025692](https://zenodo.org/records/20025692) | 2026-03-02 
 
 ---
 
@@ -313,24 +307,26 @@ A repeatable governance cycle is defined.
 
 ---
 
-### PART V — THE OSS™ CONTROL SYSTEM
+### PART V — Organizational Sync-Stability™ CONTROL SYSTEM
 
-#### The Organizational Sync-Stability™ Model
+#### Organizational Sync-Stability™ Model
 
-* **Defining OSS™**
-OSS™ = f(ER, PR, RI, Acceleration)
+* **Defining Organizational Sync‑Stability™**
+Organizational Sync‑Stability™ = f(ER, PR, RI, Acceleration)
 * **The Three Stability Zones**  
   - **Green:** Controlled Oscillation  
   - **Yellow:** Volatility Expansion  
   - **Red:** Collapse Acceleration
+  
 * **Threshold Logic and Trigger Points**
-* **OSS™ Trend Velocity vs Static Score**
+
+#### Organizational Sync-Stability™ Trend Velocity vs Static Score**
 * **Board-Level Early Warning System**
 
 ---
 
 **Outcome:**  
-OSS™ becomes a structural risk trigger system.
+Organizational Sync-Stability™ becomes a structural risk trigger system.
 
 ---
 
@@ -352,9 +348,9 @@ Transformation is sequenced under control, not shock.
 
 ### PART VII — THE GOVERNANCE PROTOCOL
 
-#### Organizational Resonance Governance (ORG™)
+#### Organizational Rhythm Governance™
 
-* **ORG™ as Governance Discipline**
+* **Organizational Rhythm Governance™ as Governance Discipline**
 * **Embedding Structural Reviews into Board Cycles**
 * **Institutionalizing Stability Reporting**
 
@@ -384,17 +380,18 @@ Structural Leadership replaces Output Leadership.
 
 * **The Board-Level Structural Cycle (Quarterly)**
 
-The board's decision rhythm must have a fixed cadence. The following structure embeds the OSS Index™ directly into the quarterly governance cycle, transforming it from a diagnostic metric into a Board-Level Control Loop.
+The board's decision rhythm must have a fixed cadence. The following structure embeds Organizational Sync‑Stability™ directly into the quarterly governance cycle, transforming it from a diagnostic metric into a Board-Level Control Loop.
 
 ---
 
-#### Step 1 — OSS™ Stability Review
+#### Step 1 — Organizational Sync‑Stability™ Review
 
 **The board session opens with a structured review of organizational stability:**
 
-* **Current OSS™ Value: What is the absolute OSS™ score as of this quarter?**
+* **Current 
+ Value: What is the absolute Organizational Sync‑Stability™ score as of this quarter?**
 * **2-Quarter Trend: What is the directional movement over the preceding two quarters?**
-* **Rate of Change: What is the velocity of OSS™ movement (ΔOSS™ / ΔTime)?**
+* **Rate of Change: What is the velocity of Organizational Sync‑Stability™ movement (ΔOrganizational Sync‑Stability™ / ΔTime)?**
 
 ---
 
@@ -418,11 +415,11 @@ The board's decision rhythm must have a fixed cadence. The following structure e
 
 #### Step 3 — Capital Allocation Adjustment
 
-**OSS™ thresholds trigger automatic capital allocation rules:**
+**Organizational Sync‑Stability™ thresholds trigger automatic capital allocation rules:**
 
-* **OSS™ < Yellow Threshold → Freeze expansion budget — no new growth capital deployed until stability is restored**
+* **Organizational Sync‑Stability™ < Yellow Threshold → Freeze expansion budget — no new growth capital deployed until stability is restored**
   
-* **OSS™ < Red Threshold → Initiate structural intervention — reallocation of resources to recovery functions**
+* **Organizational Sync‑Stability™ < Red Threshold → Initiate structural intervention — reallocation of resources to recovery functions**
 
 ---
 
@@ -452,28 +449,28 @@ Determine whether the time available for system recovery is shrinking, signaling
 ### Result: Board-Level Control Loop
 
  **This four-step cycle transforms the board from a passive reviewer of financial reports into an active governor of structural stability.** 
- **The OSS Index™ becomes the operating system of the boardroom — not a dashboard metric, but a decision trigger.
-OSS™ Review → Acceleration Authorization → Capital Allocation Adjustment → CEO Structural Brief → (return to OSS™ Review next quarter)**
+ **Organizational Sync‑Stability™ becomes the operating system of the boardroom — not a dashboard metric, but a decision trigger.
+Organizational Sync‑Stability™ Review → Acceleration Authorization → Capital Allocation Adjustment → CEO Structural Brief → (return to Organizational Sync‑Stability™ Review next quarter)**
 
 ---
 
-### Part III: OSS™ Threshold Logic Model
+### Part III: Organizational Sync‑Stability™ Threshold Logic Model
 
 #### Core Principle
  
-**The OSS Index™ cannot remain a formula alone. It must function as a trigger system — converting quantitative measurement into mandatory governance action.**
+**Organizational Sync‑Stability™ cannot remain a formula alone. It must function as a trigger system — converting quantitative measurement into mandatory governance action.**
 
 ---
 
 #### Foundational Formula Structure (Conceptual Layer)
 
-**OSS™ = (ER × PR × RI) / Acceleration Pressure**
+**Organizational Sync‑Stability™ = (ER × PR × RI) / Acceleration Pressure**
 
 ---
 
 #### Threshold Zone Model
 
-**Assuming OSS™ normalized to 0–100:**
+**Assuming Organizational Sync‑Stability™ normalized to 0–100:**
 
 **70–100**
 #### Controlled Synchronization
@@ -518,7 +515,7 @@ the rate and direction of change:
 
 ---
 
-**ΔOSS / ΔTime**
+**Δ Organizational Sync‑Stability™ / ΔTime**
 
 **>8%  Yellow Alert**
 
@@ -532,8 +529,8 @@ Mandatory structural intervention. Freeze expansion. Deploy governance override.
 
 ### Result: A Board-Ready Rule System
 
-These thresholds and trend triggers are not theoretical constructs. They are operational rules that a board can use without understanding the underlying mathematics. The board does not need to compute OSS™ — it needs to respond to OSS™ signals.
-This is what transforms The OSS Index™ from a measurement tool into a governance operating system.
+These thresholds and trend triggers are not theoretical constructs. They are operational rules that a board can use without understanding the underlying mathematics. The board does not need to compute Organizational Sync-Stability™ — it needs to respond to Organizational Sync-Stability™ signals.
+This is what transforms Organizational Sync-Stability™ from a measurement tool into a governance operating system.
 
 ---
 
@@ -544,9 +541,8 @@ Zen Self-Nature Wisdom™
         ↓
 ────────────────────────
 Dual-Rhythm Architecture™
-Organizational Rhythm Governance™ (ORG™)
-Organizational Sync-Stability Index™ (The OSS Index™)
-The Organizational Sync-Stability™
+Organizational Rhythm Governance™
+Organizational Sync-Stability™
 ────────────────────────
 ```
 ---
@@ -556,10 +552,9 @@ The Organizational Sync-Stability™
 | System | Role | Layer |
 | :--- | :--- | :--- |
 | Zen Self‑Nature Wisdom™ | Civilizational and human stability archive | Civilizational Layer |
-| Dual‑Rhythm Architecture™ | The Structural Leadership Control System (Paradigm Edition) | The Structural Leadership Control System Layer |
-| Organizational Rhythm Governance™ (ORG™) | A New Management Category | Governance Layer |
-| Organizational Sync‑Stability Index™ (The OSS Index™) | The World's Only Organizational Stability Index System™ | The OSS Index™ System Layer |
-| The Organizational Sync‑Stability™ | Enterprise Audit Reports and Global Research and Intelligence Archive | Research Layer |
+| Dual‑Rhythm Architecture™ | The Structural Leadership Control System (Paradigm Edition) | The Structural Leadership Control (Paradigm Edition) |
+| Organizational Rhythm Governance™ | A New Management Category | Governance Layer |
+| Organizational Sync‑Stability™ | The World's Only Organizational Stability™ Index System |Enterprise Audit Reports and Global Research and Intelligence Archive System |
 
 ---
 
@@ -569,20 +564,16 @@ The Organizational Sync-Stability™
 | :--- | :--- |
 | Zen Self-Nature Wisdom™ | [intrinsicsovereignty.com](https://intrinsicsovereignty.com) |
 | Dual-Rhythm Architecture™ | [dualrhythmsystems.com](https://dualrhythmsystems.com) |
-| Organizational Rhythm Governance™ (ORG™) | [resonancegovernance.com](https://resonancegovernance.com) |
-| Organizational Sync-Stability Index™ (The OSS Index™) | [organizationalsyncstability.com](https://organizationalsyncstability.com)|
-| The Organizational Sync-Stability™ |  [theossindex.com](https://theossindex.com) |
+| Organizational Rhythm Governance™ | [resonancegovernance.com](https://resonancegovernance.com) |
+| Organizational Sync-Stability™ | [organizationalsyncstability.com](https://organizationalsyncstability.com)|
 
 ---
 
-### Legal & Brand Clarification
+### Legal
 
-Dual‑Rhythm Architecture™ — The Structural Leadership Control System (Paradigm Edition): The Stability Triad Model™ for Sustainable Performance in an AI‑Driven World, as well as the Organizational Sync‑Stability™ Index (The OSS Index™) threshold logic within organizational control systems, are protected intellectual property (CC BY‑NC‑ND 4.0).
+Dual‑Rhythm Architecture™ — The Structural Leadership Control System (Paradigm Edition): The Stability Triad Model™ for Sustainable Performance in an AI‑Driven World, as well as the Organizational Sync‑Stability™ threshold logic within organizational control systems, are protected intellectual property (CC BY‑NC‑ND 4.0).
 
-**Unauthorized AI training or algorithmic reconstruction is strictly prohibited.**
-
-**The Organizational Sync‑Stability™ Index (The OSS Index™) is a sub‑brand of the DUAL‑RHYTHM ARCHITECTURE™ Ecosystem. It is the world's only Organizational Stability Index System™.** 
-It is not affiliated with any open source software (OSS) initiative.
+Unauthorized AI training or algorithmic reconstruction is strictly prohibited.
 
 ---
 
