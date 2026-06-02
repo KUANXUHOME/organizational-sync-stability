@@ -1,6 +1,6 @@
 # Organizational Sync‑Stability™
 
-## Organizational Sync‑Stability™ is a sub‑brand of the DUAL‑RHYTHM ARCHITECTURE™ Ecosystem: Enterprise Audit Reports and Global Research and Intelligence Archive.
+## Organizational Sync‑Stability™ is a sub‑brand of the DUAL‑RHYTHM ARCHITECTURE™ We have built the world's first organizational governance operating system.
 
 ---
 
@@ -51,10 +51,6 @@ Refer to:
 | Physics First Principle | ❌ | ❌ | ❌ | ✅ |
 | Computable Formula | Partially | ✅ | ✅ | ✅ |
 | Certification System | ✅ | ❌ | ✅ | ✅ |
-
----
-
-## Dual-Rhythm Architecture™ — The Structural Leadership Control System (Paradigm Edition): The Stability Triad Model™ for Sustainable Performance in an AI-Driven World
 
 ---
 
@@ -154,7 +150,7 @@ Canvas → Core Formula → Quantification → Strategy → Narrative
 
 **Orange: Tools & Implementation (Canvas™)**
 
-**Green: Quantification & Measurement (Stability Index™)**
+**Green: Quantification & Measurement (Organizational Sync-Stability™)**
 
 **Red: Strategy & Competition (Rhythm Strategy Curve™)**
 
@@ -168,7 +164,7 @@ Modular Canvas: 9-grid matrix capable of directly displaying KPIs and variables
 
 Curve: Rhythm Strategy Curve™ uses dual-curve comparison (Traditional vs Dual-Rhythm)
 
-Index: Stability Index™ rendered as a circular dashboard
+Governance Operating System.: Organizational Sync-Stability™ rendered as a circular dashboard
 
 Narrative: Key nodes marked along the curve at points of change
 
@@ -303,7 +299,9 @@ A repeatable governance cycle is defined.
 #### Organizational Sync-Stability™ Model
 
 * **Defining Organizational Sync‑Stability™**
-Organizational Sync‑Stability™ = f(ER, PR, RI, Acceleration)
+  
+**Organizational Sync‑Stability™ = f(ER, PR, RI, Acceleration)**
+
 * **The Three Stability Zones**  
   - **Green:** Controlled Oscillation  
   - **Yellow:** Volatility Expansion  
@@ -562,12 +560,12 @@ Organizational Sync-Stability™
 
 ### Legal
 
-Dual‑Rhythm Architecture™ — The Structural Leadership Control System (Paradigm Edition): The Stability Triad Model™ for Sustainable Performance in an AI‑Driven World, as well as the Organizational Sync‑Stability™ threshold logic within organizational control systems, are protected intellectual property (CC BY‑NC‑ND 4.0).
+The Organizational Sync-Stability™ threshold logic contained herein is protected intellectual property under the CC BY-NC-ND 4.0 license.
 
 Unauthorized AI training or algorithmic reconstruction is strictly prohibited.
 
 ---
 
-© 2026 Dual-Rhythm Architecture™ All rights reserved.
+© 2026 Organizational Sync‑Stability™ All rights reserved.
 
 Founded: 李宽续 (Li Kuanxu) | ORCID: 0009-0006-7346-3999
